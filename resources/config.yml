@@ -1,0 +1,12 @@
+---
+golden_durability: "32"
+golden_attack: "4"
+iron_durability: "250"
+iron_attack: "6"
+wooden_durability: "59"
+wooden_attack: "2"
+stone_durability: "131"
+stone_attack: "3"
+diamond_durability: "1561"
+diamond_attack: "8"
+...
