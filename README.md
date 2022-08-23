@@ -16,4 +16,3 @@ stone_durability: "131"
 stone_attack: "3"
 diamond_durability: "1561"
 diamond_attack: "8"
-...
