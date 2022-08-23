@@ -5,4 +5,5 @@ branches:
 projects:
   SwordModded:
     path: ""
+    icon: icon.png
 ...
