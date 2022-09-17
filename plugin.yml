@@ -1,5 +1,5 @@
 name: SwordModded
-main: KaxYum-AethTeam\SwordModded\Main
+main: KaxYum\SwordModded\Main
 version: 1.0.0
 api: [4.0.0]
 author: KaxYum-AethTeam
