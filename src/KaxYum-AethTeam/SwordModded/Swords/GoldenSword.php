@@ -1,8 +1,8 @@
 <?php
 
-namespace SwordModded\Swords;
+namespace KaxYum-AethTeam\SwordModded\Swords;
 
-use SwordModded\Main;
+use KaxYum-AethTeam\SwordModded\Main;
 use pocketmine\item\TieredTool;
 use pocketmine\item\ItemIdentifier;
 use pocketmine\item\ToolTier;
