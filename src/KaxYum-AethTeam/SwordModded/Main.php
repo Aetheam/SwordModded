@@ -1,12 +1,12 @@
 <?php
 
-namespace SwordModded;
+namespace KaxYum-AethTeam\SwordModded;
 
-use SwordModded\Swords\DiamondSword;
-use SwordModded\Swords\IronSword;
-use SwordModded\Swords\WoodenSword;
-use SwordModded\Swords\GoldenSword;
-use SwordModded\Swords\StoneSword;
+use KaxYum-AethTeam\SwordModded\Swords\DiamondSword;
+use KaxYum-AethTeam\SwordModded\Swords\IronSword;
+use KaxYum-AethTeam\SwordModded\Swords\WoodenSword;
+use KaxYum-AethTeam\SwordModded\Swords\GoldenSword;
+use KaxYum-AethTeam\SwordModded\Swords\StoneSword;
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
